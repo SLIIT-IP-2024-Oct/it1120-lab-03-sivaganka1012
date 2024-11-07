@@ -8,6 +8,6 @@ public class IT24103953Lab3Q1A {
 	double Number_Of_KG = input.nextDouble();
 	double TotalAmount= Price_Per_KG * Number_Of_KG;
 	System.out.println("The total amount is:" + TotalAmount);
-	input.close();
+
 }
 }
