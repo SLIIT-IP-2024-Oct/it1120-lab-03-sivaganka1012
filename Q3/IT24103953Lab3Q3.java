@@ -53,6 +53,6 @@ public class IT24103953Lab3Q3 {
         System.out.println("02 Notes  " + num2);
         System.out.println("01 Notes  " + num1);
 
-        input.close();
+        
     }
 }
