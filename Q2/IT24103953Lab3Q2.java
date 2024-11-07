@@ -21,6 +21,6 @@ public class IT24103953Lab3Q2 {
  
         System.out.println("The total salary including OT is: " + totalSalary);
 
-        input.close();
+  
     }
 }
