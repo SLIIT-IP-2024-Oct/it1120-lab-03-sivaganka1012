@@ -17,6 +17,6 @@ public class IT24103953Lab3Q4 {
 
         System.out.println(digit1 + " " + digit2 + " " + digit3 + " " + digit4 + " " + digit5);
 
-        input.close();
+    
     }
 }
